@@ -64,7 +64,7 @@ I created this website as my first React Demo Project
 Before getting started with React-demo, ensure your runtime environment meets the following requirements:
 
 - **Programming Language:** TypeScript
-- **Package Manager:** Npm
+- **Package Manager:** npm
 
 
 ###  Installation
@@ -75,12 +75,12 @@ Install React-demo using one of the following methods:
 
 1. Clone the React-demo repository:
 ```sh
-❯ git clone https://github.com/Devang-sharma609/React-demo
+git clone https://github.com/Devang-sharma609/React-demo
 ```
 
 2. Navigate to the project directory:
 ```sh
-❯ cd React-demo
+cd React-demo
 ```
 
 3. Install the project dependencies:
@@ -89,7 +89,7 @@ Install React-demo using one of the following methods:
 **Using** &nbsp; [<img align="center" src="https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white" />](https://www.npmjs.com/)
 
 ```sh
-❯ npm install
+npm install
 ```
 
 
@@ -100,19 +100,8 @@ Run React-demo using the following command:
 **Using** &nbsp; [<img align="center" src="https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white" />](https://www.npmjs.com/)
 
 ```sh
-❯ npm start
+npm run dev
 ```
-
-
-###  Testing
-Run the test suite using the following command:
-**Using** &nbsp; [<img align="center" src="https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white" />](https://www.npmjs.com/)
-
-```sh
-❯ npm test
-```
-
-
 ##  Contributing
 
 - **🐛 [Report Issues](https://github.com/Devang-sharma609/React-demo/issues)**: Submit bugs found or log feature requests for the `React-demo` project.
